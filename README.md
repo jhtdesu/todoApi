@@ -1,2 +1,4 @@
 # todoApi
-backend for todolist
+
+how to run on localhost: dotnet run 
+
